@@ -1,5 +1,5 @@
 Pod::Spec.new do |s|
-  s.name         = 'HelloWorld'
+  s.name         = 'PalpatimHelloWorld'
   s.version      = '1.0.0'
   s.summary      = 'HelloWorld test project.'
 
